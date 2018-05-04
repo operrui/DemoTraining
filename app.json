@@ -1,0 +1,24 @@
+{
+  "id": "583869dd-66a1-48b9-bba4-e0117f154f2a",
+  "name": "Demo-Code",
+  "publisher": "ARB",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50110,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "features": ["TranslationFile"]
+}

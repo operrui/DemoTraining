@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Demo-Code">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2651057848 - Field 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:id</note>
+        </trans-unit>
+        <trans-unit id="Table 2651057848 - Field 2757394829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>number</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:number</note>
+        </trans-unit>
+        <trans-unit id="Table 2651057848 - Field 1656136372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>title</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:title</note>
+        </trans-unit>
+        <trans-unit id="Table 2651057848 - Field 3464043334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>created_at</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:created_at</note>
+        </trans-unit>
+        <trans-unit id="Table 2651057848 - Field 1627817627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>user</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:user</note>
+        </trans-unit>
+        <trans-unit id="Table 2651057848 - Field 1405163793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>state</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:state</note>
+        </trans-unit>
+        <trans-unit id="Table 2651057848 - Field 372531027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>html_url</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:ALIssue - Field:html_url</note>
+        </trans-unit>
+        <trans-unit id="Table 1804054511 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:NewBook - Field:No.</note>
+        </trans-unit>
+        <trans-unit id="Table 1804054511 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:NewBook - Field:Title</note>
+        </trans-unit>
+        <trans-unit id="Table 1804054511 - Field 2842729223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Author</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:NewBook - Field:Author</note>
+        </trans-unit>
+        <trans-unit id="Table 1804054511 - Field 3902073686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hardcover</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:NewBook - Field:Hardcover</note>
+        </trans-unit>
+        <trans-unit id="Table 1804054511 - Field 4112194308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page Count</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:NewBook - Field:Page Count</note>
+        </trans-unit>
+        <trans-unit id="Page 4190473131 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:NewBookCard - Control:General</note>
+        </trans-unit>
+        <trans-unit id="Page 4190473131 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page:NewBookCard - Control:Details</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2333538111 - Field 150268382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorite Book No.</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:CustomerExtension - Field:Favorite Book No.</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
